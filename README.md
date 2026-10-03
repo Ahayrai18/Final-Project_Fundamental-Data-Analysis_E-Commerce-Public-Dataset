@@ -603,6 +603,7 @@ The dashboard operates from the cleaned item-level dataset while converting the 
 The dataset is the **Brazilian E-Commerce Public Dataset by Olist**, distributed through Kaggle:
 
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view?usp=sharing
 
 Dataset license: **CC BY-NC-SA 4.0**.
 
